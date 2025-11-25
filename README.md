@@ -1,4 +1,4 @@
-# SpeedCAT 闪电猫官网地址 + 最新优惠吗
+# SpeedCAT 闪电猫官网注册入口说明与使用指南
 
 ## SpeedCAT 闪电猫简介
 
