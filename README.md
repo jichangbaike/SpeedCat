@@ -184,6 +184,6 @@ A：建议优先查看 SpeedCAT 官网的公告、使用说明与帮助文档。
   [https://finalto.xyz/W6eT2v](https://finalto.xyz/W6eT2v)
 
 - 📖 **第三方测评与使用体验**：  
-  [SpeedCAT（闪电猫）机场测评：老牌高速稳定，全专线IPLC，没有倍率和套路](https://jichangbaike.com/2025/11/248.html)
+  [SpeedCAT（闪电猫）机场测评](https://jichangbaike.com/2025/11/248.html)
 
 > 建议将本说明文档与测评文章一并收藏，使用过程中请严格遵守当地法律法规与服务条款。
