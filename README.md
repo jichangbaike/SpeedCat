@@ -1,5 +1,7 @@
 # SpeedCAT（闪电猫）官网注册入口说明与多平台使用指南
 
+<img src="https://raw.githubusercontent.com/jichangbaike/speedcat/refs/heads/main/1851.png">
+
 SpeedCAT（闪电猫）是一家成立已久的老牌网络加速服务商，主打高速、稳定、无套路的使用体验。  
 服务基于 SS（Shadowsocks）协议搭建，采用全专线 IPLC 线路，节点质量长期保持在行业第一梯队，全平台兼容良好，可适配 Windows、macOS、iOS、Android、Linux、路由器等设备。
 
