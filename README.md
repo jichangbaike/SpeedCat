@@ -102,8 +102,8 @@ SpeedCAT（闪电猫）的主要特点包括（以官网及官方说明为准）
 SpeedCAT 基于 SS 协议，兼容主流平台与客户端，典型支持包括：
 
 - **桌面系统**  
-  - Windows：可配合 Clash、NekoRay 等客户端使用；  
-  - macOS：可使用 Clash、ClashX、Surge 等客户端。
+  - Windows：可配合 Clash Verge、FlClash 等客户端使用；  
+  - macOS：可使用 Clash Verge、FlClash、ClashX、Surge 等客户端。
 
 - **移动端设备**  
   - Android：支持常见 Android 客户端（如 Clash for Android 等）；  
